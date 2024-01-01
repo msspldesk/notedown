@@ -1,0 +1,7 @@
+{
+  "name": "notedown",
+  "description": "notedown is a Nodejs Markdown based knowledge base/FAQ/Wiki app with powerful lunr search",
+  "repository": "https://github.com/msspldesk/notedown.git",
+  "logo": "",
+  "keywords": ["nodejs", "knowledgebase", "faq", "wiki", "markdown"]
+}
